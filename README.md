@@ -12,8 +12,8 @@ I'm ...
 - 🎵 Playing Bass for [uManic.band](https://uManic.band) and having plenty of fun there 🤘🏾
   - 🎙️ I'm learning to scream
   - 🎛️ We're planning on recording some stuff 🤞🏾
-- 📖 Reading `IT Strategy` by Jim Maholic
-- 🎮 Gaming; who don't?
+- 📖 Reading some stuff (will post somewhere) <!-- `IT Strategy` by Jim Maholic and `Limitless` by Jim Kwik -->
+- 🎮 Gaming; who doesn't?
 
 Lastly ...
 - 🏃🏾‍ I love trail running and hiking (although I'm super out of shape these days 😅)
