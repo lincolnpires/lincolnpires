@@ -7,18 +7,21 @@
 This is Lincoln.
 
 I'm ...
-- 🔭 Working on KOOP, and creating a personal blog (fingers crossed that I post something).
-- 🌱 Currently learning lots of AWS, CloudOps, Leading/Management, ITOps, and I'm reviewing some DevOps stuff I studied in the past.
+- 🔭 Working on KOOP (and around it).
+- 🌱 Currently learning lots of CloudOps, Leadership, ITOps, and I'm reviewing some DevOps stuff I studied in the past.
 - 🎵 Playing Bass for [uManic.band](https://uManic.band) and having plenty of fun there 🤘🏾
-  - 🎙️ I'm learning to scream
-  - 🎛️ We're planning on recording some stuff 🤞🏾
+  - 🎙️ I'm learning how-to scream
+  - 🎛️ We're self-recording some stuff 🤞🏾
 - 📖 Reading some stuff (will post somewhere) <!-- `IT Strategy` by Jim Maholic and `Limitless` by Jim Kwik -->
 - 🎮 Gaming; who doesn't?
+- Maybe writing some markdown posts
 
 Lastly ...
-- 🏃🏾‍ I love trail running and hiking (although I'm super out of shape these days 😅)
+- 🏃🏾‍ I love trail running and hiking (although I'm out of shape 😅)
 - 🗣 I don't speak German (yet 🤔)
 - 💬 Ask me about ...
+  - My Bass rig
+  - My preferred stack
 
 ---
 ## Tech Soup
@@ -28,13 +31,13 @@ Lastly ...
 ![RedHat](https://img.shields.io/badge/RedHat-white?style=for-the-badge&logo=RedHat&logoColor=ee0000) 
 
 ![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=microsoft-azure)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) --> 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 
 ![C#](https://img.shields.io/badge/C%23-blueviolet.svg?style=for-the-badge&logo=csharp)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ~
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ~
 
 ![dotnet](https://img.shields.io/badge/dotnet-blueviolet.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
@@ -44,10 +47,10 @@ Lastly ...
 ![Azure DevOps](https://img.shields.io/badge/devops-blue.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/actions-%23121011.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-7740b6?style=for-the-badge&logo=terraform) 
+<!-- ![Terraform](https://img.shields.io/badge/terraform-7740b6?style=for-the-badge&logo=terraform) --> 
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![Snyk](https://img.shields.io/badge/Snyk-221f4a?style=for-the-badge&logo=Snyk) 
+<!-- ![Snyk](https://img.shields.io/badge/Snyk-221f4a?style=for-the-badge&logo=Snyk) -->
 ![Sentry](https://img.shields.io/badge/sentry-362d59?style=for-the-badge&logo=sentry) 
 
 ![Jetbrains](https://img.shields.io/badge/Jetbrains-black?style=for-the-badge&logo=Jetbrains) 
@@ -60,15 +63,16 @@ Lastly ...
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
+<!--
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Firebase](https://img.shields.io/badge/firebase-white.svg?style=for-the-badge&logo=Firebase) 
 ![Vite](https://img.shields.io/badge/vite-9a5efe.svg?style=for-the-badge&logo=vite&logoColor=ffce26) 
-
+-->
 ![Ghost](https://img.shields.io/badge/Ghost-black.svg?style=for-the-badge&logo=ghost&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
+<!--![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) -->
 
 <!-- ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
