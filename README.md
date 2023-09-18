@@ -7,14 +7,14 @@
 This is Lincoln.
 
 I'm ...
-- 🔭 Working on KOOP (and around it).
-- 🌱 Currently learning lots of CloudOps, Leadership, ITOps, and I'm reviewing some DevOps stuff I studied in the past.
-- 🎵 Playing Bass for [uManic.band](https://uManic.band) and having plenty of fun there 🤘🏾
-  - 🎙️ I'm learning how-to scream
+- 🔭 Working on keyone stuff.
+- 🌱 Always learning lots of CloudOps, Leadership, ITOps, reviewing DevOps and API stuff.
+- 🎵 Playing Bass for [uManic.band](https://uManic.band) and having plenty of fun there 🤘🏾 (and stuff)
+  - 🎙️ I'm learning how-to scream (at stuff)
   - 🎛️ We're self-recording some stuff 🤞🏾
 - 📖 Reading some stuff (will post somewhere) <!-- `IT Strategy` by Jim Maholic and `Limitless` by Jim Kwik -->
-- 🎮 Gaming; who doesn't?
-- Maybe writing some markdown posts
+- 🎮 Gaming; who doesn't? (stuff like that)
+- Maybe writing some markdown posts/stuff
 
 Lastly ...
 - 🏃🏾‍ I love trail running and hiking (although I'm out of shape 😅)
@@ -44,7 +44,6 @@ Lastly ...
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![Azure DevOps](https://img.shields.io/badge/devops-blue.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/actions-%23121011.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 <!-- ![Terraform](https://img.shields.io/badge/terraform-7740b6?style=for-the-badge&logo=terraform) --> 
