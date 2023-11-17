@@ -8,7 +8,7 @@ This is Lincoln.
 
 I'm ...
 - 🔭 Working on keyone stuff.
-- 🌱 Always learning lots of CloudOps, Leadership, ITOps, reviewing DevOps and API stuff.
+- 🌱 Always learning lots of CloudOps, ITOps, reviewing DevOps and API stuff.
 - 🎵 Playing Bass for [uManic.band](https://uManic.band) and having plenty of fun there 🤘🏾 (and stuff)
   - 🎙️ I'm learning how-to scream (at stuff)
   - 🎛️ We're self-recording some stuff 🤞🏾
@@ -24,14 +24,16 @@ Lastly ...
   - My preferred stack
 
 ---
-## Tech Soup
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-49b8c6.svg?style=for-the-badge&logo=popos&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=microsoft-azure)
+<!-- ## Tech Soup
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-49b8c6.svg?style=for-the-badge&logo=popos&logoColor=white) 
 ![RedHat](https://img.shields.io/badge/RedHat-white?style=for-the-badge&logo=RedHat&logoColor=ee0000) 
 
 ![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=microsoft-azure)
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) --> 
+<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 
 ![C#](https://img.shields.io/badge/C%23-blueviolet.svg?style=for-the-badge&logo=csharp)
@@ -46,10 +48,10 @@ Lastly ...
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![GitHub Actions](https://img.shields.io/badge/actions-%23121011.svg?style=for-the-badge&logo=github-actions&logoColor=white)
-<!-- ![Terraform](https://img.shields.io/badge/terraform-7740b6?style=for-the-badge&logo=terraform) --> 
+<!-- ![Terraform](https://img.shields.io/badge/terraform-7740b6?style=for-the-badge&logo=terraform) 
 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-<!-- ![Snyk](https://img.shields.io/badge/Snyk-221f4a?style=for-the-badge&logo=Snyk) -->
+<!-- ![Snyk](https://img.shields.io/badge/Snyk-221f4a?style=for-the-badge&logo=Snyk) 
 ![Sentry](https://img.shields.io/badge/sentry-362d59?style=for-the-badge&logo=sentry) 
 
 ![Jetbrains](https://img.shields.io/badge/Jetbrains-black?style=for-the-badge&logo=Jetbrains) 
@@ -69,7 +71,7 @@ Lastly ...
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Firebase](https://img.shields.io/badge/firebase-white.svg?style=for-the-badge&logo=Firebase) 
 ![Vite](https://img.shields.io/badge/vite-9a5efe.svg?style=for-the-badge&logo=vite&logoColor=ffce26) 
--->
+
 ![Ghost](https://img.shields.io/badge/Ghost-black.svg?style=for-the-badge&logo=ghost&logoColor=white) 
 <!--![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) -->
 
@@ -78,9 +80,10 @@ Lastly ...
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white) 
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) 
 ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) 
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  -->
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)  
 
 <small>with more to come ...</small>
+-->
 
 ---
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnpires)](https://github.com/anuraghazra/github-readme-stats) -->
