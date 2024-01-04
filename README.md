@@ -7,7 +7,7 @@
 This is Lincoln.
 
 I'm ...
-- 🔭 Working on keyone stuff.
+- 🔭 Working on my own stuff.
 - 🌱 Always learning lots of CloudOps, ITOps, reviewing DevOps and API stuff.
 - 🎵 Playing Bass for [uManic.band](https://uManic.band) and having plenty of fun there 🤘🏾 (and stuff)
   - 🎙️ I'm learning how-to scream (at stuff)
@@ -21,28 +21,29 @@ Lastly ...
 - 🗣 I don't speak German (yet 🤔)
 - 💬 Ask me about ...
   - My Bass rig
-  - My preferred stack
+  - My preferred tech stack
 
 ---
+### Tech Soup
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-49b8c6.svg?style=for-the-badge&logo=popos&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=microsoft-azure)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
+![dotnet](https://img.shields.io/badge/dotnet-blueviolet.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Ghost](https://img.shields.io/badge/Ghost-black.svg?style=for-the-badge&logo=ghost&logoColor=white) 
+
 <!-- ## Tech Soup
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 ![Pop!_OS](https://img.shields.io/badge/Pop!_OS-49b8c6.svg?style=for-the-badge&logo=popos&logoColor=white) 
 ![RedHat](https://img.shields.io/badge/RedHat-white?style=for-the-badge&logo=RedHat&logoColor=ee0000) 
 
-![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=microsoft-azure)
-<!-- ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
-
 ![C#](https://img.shields.io/badge/C%23-blueviolet.svg?style=for-the-badge&logo=csharp)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ~
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ~
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
-![dotnet](https://img.shields.io/badge/dotnet-blueviolet.svg?style=for-the-badge&logo=dotnet&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
@@ -50,7 +51,6 @@ Lastly ...
 ![GitHub Actions](https://img.shields.io/badge/actions-%23121011.svg?style=for-the-badge&logo=github-actions&logoColor=white)
 <!-- ![Terraform](https://img.shields.io/badge/terraform-7740b6?style=for-the-badge&logo=terraform) 
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
 <!-- ![Snyk](https://img.shields.io/badge/Snyk-221f4a?style=for-the-badge&logo=Snyk) 
 ![Sentry](https://img.shields.io/badge/sentry-362d59?style=for-the-badge&logo=sentry) 
 
@@ -72,7 +72,6 @@ Lastly ...
 ![Firebase](https://img.shields.io/badge/firebase-white.svg?style=for-the-badge&logo=Firebase) 
 ![Vite](https://img.shields.io/badge/vite-9a5efe.svg?style=for-the-badge&logo=vite&logoColor=ffce26) 
 
-![Ghost](https://img.shields.io/badge/Ghost-black.svg?style=for-the-badge&logo=ghost&logoColor=white) 
 <!--![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) -->
 
 <!-- ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) 
@@ -84,8 +83,3 @@ Lastly ...
 
 <small>with more to come ...</small>
 -->
-
----
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lincolnpires)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<!-- ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=lincolnpires) -->
