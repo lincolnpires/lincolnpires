@@ -7,14 +7,14 @@
 This is Lincoln.
 
 I'm ...
-- 🔭 Working on my own stuff.
+- 🔭 Working on stuff for Innio/Ferchau.
 - 🌱 Always learning lots of CloudOps, ITOps, reviewing DevOps and API stuff.
 - 🎵 Playing Bass for [uManic.band](https://uManic.band) and having plenty of fun there 🤘🏾 (and stuff)
   - 🎙️ I'm learning how-to scream (at stuff)
   - 🎛️ We're self-recording some stuff 🤞🏾
 - 📖 Reading some stuff (will post somewhere) <!-- `IT Strategy` by Jim Maholic and `Limitless` by Jim Kwik -->
 - 🎮 Gaming; who doesn't? (stuff like that)
-- Maybe writing some markdown posts/stuff
+- Maybe writing some markdown stuff
 
 Lastly ...
 - 🏃🏾‍ I love trail running and hiking (although I'm out of shape 😅)
@@ -25,12 +25,13 @@ Lastly ...
 
 ---
 ### Tech Soup
-![Pop!_OS](https://img.shields.io/badge/Pop!_OS-49b8c6.svg?style=for-the-badge&logo=popos&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=microsoft-azure)
+![Pop!_OS](https://img.shields.io/badge/Pop!_OS-49b8c6.svg?style=for-the-badge&logo=popos&logoColor=white) 
+![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logo=microsoft-azure) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) 
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) 
-![dotnet](https://img.shields.io/badge/dotnet-blueviolet.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![dotnet](https://img.shields.io/badge/dotnet-blueviolet.svg?style=for-the-badge&logo=dotnet&logoColor=white) 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Jetbrains](https://img.shields.io/badge/Jetbrains-black?style=for-the-badge&logo=Jetbrains) 
 ![Ghost](https://img.shields.io/badge/Ghost-black.svg?style=for-the-badge&logo=ghost&logoColor=white) 
 
 <!-- ## Tech Soup
@@ -54,7 +55,7 @@ Lastly ...
 <!-- ![Snyk](https://img.shields.io/badge/Snyk-221f4a?style=for-the-badge&logo=Snyk) 
 ![Sentry](https://img.shields.io/badge/sentry-362d59?style=for-the-badge&logo=sentry) 
 
-![Jetbrains](https://img.shields.io/badge/Jetbrains-black?style=for-the-badge&logo=Jetbrains) 
+
 ![VS Code](https://img.shields.io/badge/VS_Code-4babeb?style=for-the-badge&logo=visualstudiocode) 
 ![Vim](https://img.shields.io/badge/Vim-ccc?style=for-the-badge&logo=vim&logoColor=019833) 
 
